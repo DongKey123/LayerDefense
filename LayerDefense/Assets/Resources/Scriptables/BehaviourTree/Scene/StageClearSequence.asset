@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee68e540869675643b8199ce23abf45a, type: 3}
+  m_Name: StageClearSequence
+  m_EditorClassIdentifier: 
+  _nodes:
+  - {fileID: 11400000, guid: 7a20db55afaf8994388a381217b9b1d9, type: 2}
+  - {fileID: 11400000, guid: 184f3f0382d320a49bc91b2679d0b8b4, type: 2}

@@ -1,0 +1,366 @@
+﻿{
+	"md5": "5a9045a3cf58105602cd5c0e8711b458",
+	"array": 
+		[
+			{
+				"Character_ID": 1000000,
+				"Character_Name": "초보 검사",
+				"Path_Img": "Characters_1",
+				"Path_Units": "Characters_1"
+			},
+			{
+				"Character_ID": 1000001,
+				"Character_Name": "초보 검사",
+				"Path_Img": "Characters_1",
+				"Path_Units": "Characters_1"
+			},
+			{
+				"Character_ID": 1000002,
+				"Character_Name": "초보 검사",
+				"Path_Img": "Characters_1",
+				"Path_Units": "Characters_1"
+			},
+			{
+				"Character_ID": 1000003,
+				"Character_Name": "초보 검사",
+				"Path_Img": "Characters_1",
+				"Path_Units": "Characters_1"
+			},
+			{
+				"Character_ID": 1000004,
+				"Character_Name": "초보 검사",
+				"Path_Img": "Characters_1",
+				"Path_Units": "Characters_1"
+			},
+			{
+				"Character_ID": 1000100,
+				"Character_Name": "초보 궁수",
+				"Path_Img": "Characters_2",
+				"Path_Units": "Characters_2"
+			},
+			{
+				"Character_ID": 1000101,
+				"Character_Name": "초보 궁수",
+				"Path_Img": "Characters_2",
+				"Path_Units": "Characters_2"
+			},
+			{
+				"Character_ID": 1000102,
+				"Character_Name": "초보 궁수",
+				"Path_Img": "Characters_2",
+				"Path_Units": "Characters_2"
+			},
+			{
+				"Character_ID": 1000103,
+				"Character_Name": "초보 궁수",
+				"Path_Img": "Characters_2",
+				"Path_Units": "Characters_2"
+			},
+			{
+				"Character_ID": 1000104,
+				"Character_Name": "초보 궁수",
+				"Path_Img": "Characters_2",
+				"Path_Units": "Characters_2"
+			},
+			{
+				"Character_ID": 1000200,
+				"Character_Name": "초보 마법사",
+				"Path_Img": "Characters_3",
+				"Path_Units": "Characters_3"
+			},
+			{
+				"Character_ID": 1000201,
+				"Character_Name": "초보 마법사",
+				"Path_Img": "Characters_3",
+				"Path_Units": "Characters_3"
+			},
+			{
+				"Character_ID": 1000202,
+				"Character_Name": "초보 마법사",
+				"Path_Img": "Characters_3",
+				"Path_Units": "Characters_3"
+			},
+			{
+				"Character_ID": 1000203,
+				"Character_Name": "초보 마법사",
+				"Path_Img": "Characters_3",
+				"Path_Units": "Characters_3"
+			},
+			{
+				"Character_ID": 1000204,
+				"Character_Name": "초보 마법사",
+				"Path_Img": "Characters_3",
+				"Path_Units": "Characters_3"
+			},
+			{
+				"Character_ID": 1000300,
+				"Character_Name": "초보 광전사",
+				"Path_Img": "Characters_4",
+				"Path_Units": "Characters_4"
+			},
+			{
+				"Character_ID": 1000301,
+				"Character_Name": "초보 광전사",
+				"Path_Img": "Characters_4",
+				"Path_Units": "Characters_4"
+			},
+			{
+				"Character_ID": 1000302,
+				"Character_Name": "초보 광전사",
+				"Path_Img": "Characters_4",
+				"Path_Units": "Characters_4"
+			},
+			{
+				"Character_ID": 1000303,
+				"Character_Name": "초보 광전사",
+				"Path_Img": "Characters_4",
+				"Path_Units": "Characters_4"
+			},
+			{
+				"Character_ID": 1000304,
+				"Character_Name": "초보 광전사",
+				"Path_Img": "Characters_4",
+				"Path_Units": "Characters_4"
+			},
+			{
+				"Character_ID": 3000000,
+				"Character_Name": "서포터1",
+				"Path_Img": "Supporter_1",
+				"Path_Units": "Supporter_1"
+			},
+			{
+				"Character_ID": 3000001,
+				"Character_Name": "서포터1",
+				"Path_Img": "Supporter_1",
+				"Path_Units": "Supporter_1"
+			},
+			{
+				"Character_ID": 3000002,
+				"Character_Name": "서포터1",
+				"Path_Img": "Supporter_1",
+				"Path_Units": "Supporter_1"
+			},
+			{
+				"Character_ID": 3000003,
+				"Character_Name": "서포터1",
+				"Path_Img": "Supporter_1",
+				"Path_Units": "Supporter_1"
+			},
+			{
+				"Character_ID": 3000004,
+				"Character_Name": "서포터1",
+				"Path_Img": "Supporter_1",
+				"Path_Units": "Supporter_1"
+			},
+			{
+				"Character_ID": 3000100,
+				"Character_Name": "서포터2",
+				"Path_Img": "Supporter_2",
+				"Path_Units": "Supporter_2"
+			},
+			{
+				"Character_ID": 3000101,
+				"Character_Name": "서포터2",
+				"Path_Img": "Supporter_2",
+				"Path_Units": "Supporter_2"
+			},
+			{
+				"Character_ID": 3000102,
+				"Character_Name": "서포터2",
+				"Path_Img": "Supporter_2",
+				"Path_Units": "Supporter_2"
+			},
+			{
+				"Character_ID": 3000103,
+				"Character_Name": "서포터2",
+				"Path_Img": "Supporter_2",
+				"Path_Units": "Supporter_2"
+			},
+			{
+				"Character_ID": 3000104,
+				"Character_Name": "서포터2",
+				"Path_Img": "Supporter_2",
+				"Path_Units": "Supporter_2"
+			},
+			{
+				"Character_ID": 3000300,
+				"Character_Name": "서포터3",
+				"Path_Img": "Supporter_3",
+				"Path_Units": "Supporter_3"
+			},
+			{
+				"Character_ID": 3000301,
+				"Character_Name": "서포터3",
+				"Path_Img": "Supporter_3",
+				"Path_Units": "Supporter_3"
+			},
+			{
+				"Character_ID": 3000302,
+				"Character_Name": "서포터3",
+				"Path_Img": "Supporter_3",
+				"Path_Units": "Supporter_3"
+			},
+			{
+				"Character_ID": 3000303,
+				"Character_Name": "서포터3",
+				"Path_Img": "Supporter_3",
+				"Path_Units": "Supporter_3"
+			},
+			{
+				"Character_ID": 3000304,
+				"Character_Name": "서포터3",
+				"Path_Img": "Supporter_3",
+				"Path_Units": "Supporter_3"
+			},
+			{
+				"Character_ID": 3000400,
+				"Character_Name": "서포터4",
+				"Path_Img": "Supporter_4",
+				"Path_Units": "Supporter_4"
+			},
+			{
+				"Character_ID": 3000401,
+				"Character_Name": "서포터4",
+				"Path_Img": "Supporter_4",
+				"Path_Units": "Supporter_4"
+			},
+			{
+				"Character_ID": 3000402,
+				"Character_Name": "서포터4",
+				"Path_Img": "Supporter_4",
+				"Path_Units": "Supporter_4"
+			},
+			{
+				"Character_ID": 3000403,
+				"Character_Name": "서포터4",
+				"Path_Img": "Supporter_4",
+				"Path_Units": "Supporter_4"
+			},
+			{
+				"Character_ID": 3000404,
+				"Character_Name": "서포터4",
+				"Path_Img": "Supporter_4",
+				"Path_Units": "Supporter_4"
+			},
+			{
+				"Character_ID": 6000000,
+				"Character_Name": "해골 전사",
+				"Path_Img": "Monster_1",
+				"Path_Units": "Monster_1"
+			},
+			{
+				"Character_ID": 6000001,
+				"Character_Name": "해골 전사",
+				"Path_Img": "Monster_1",
+				"Path_Units": "Monster_1"
+			},
+			{
+				"Character_ID": 6000002,
+				"Character_Name": "해골 전사",
+				"Path_Img": "Monster_1",
+				"Path_Units": "Monster_1"
+			},
+			{
+				"Character_ID": 6000003,
+				"Character_Name": "해골 전사",
+				"Path_Img": "Monster_1",
+				"Path_Units": "Monster_1"
+			},
+			{
+				"Character_ID": 6000004,
+				"Character_Name": "해골 전사",
+				"Path_Img": "Monster_1",
+				"Path_Units": "Monster_1"
+			},
+			{
+				"Character_ID": 6000100,
+				"Character_Name": "오크 전사",
+				"Path_Img": "Monster_2",
+				"Path_Units": "Monster_2"
+			},
+			{
+				"Character_ID": 6000101,
+				"Character_Name": "오크 전사",
+				"Path_Img": "Monster_2",
+				"Path_Units": "Monster_2"
+			},
+			{
+				"Character_ID": 6000102,
+				"Character_Name": "오크 전사",
+				"Path_Img": "Monster_2",
+				"Path_Units": "Monster_2"
+			},
+			{
+				"Character_ID": 6000103,
+				"Character_Name": "오크 전사",
+				"Path_Img": "Monster_2",
+				"Path_Units": "Monster_2"
+			},
+			{
+				"Character_ID": 6000104,
+				"Character_Name": "오크 전사",
+				"Path_Img": "Monster_2",
+				"Path_Units": "Monster_2"
+			},
+			{
+				"Character_ID": 6000200,
+				"Character_Name": "트롤 전사",
+				"Path_Img": "Monster_3",
+				"Path_Units": "Monster_3"
+			},
+			{
+				"Character_ID": 6000201,
+				"Character_Name": "트롤 전사",
+				"Path_Img": "Monster_3",
+				"Path_Units": "Monster_3"
+			},
+			{
+				"Character_ID": 6000202,
+				"Character_Name": "트롤 전사",
+				"Path_Img": "Monster_3",
+				"Path_Units": "Monster_3"
+			},
+			{
+				"Character_ID": 6000203,
+				"Character_Name": "트롤 전사",
+				"Path_Img": "Monster_3",
+				"Path_Units": "Monster_3"
+			},
+			{
+				"Character_ID": 6000204,
+				"Character_Name": "트롤 전사",
+				"Path_Img": "Monster_3",
+				"Path_Units": "Monster_3"
+			},
+			{
+				"Character_ID": 6000300,
+				"Character_Name": "흑마법사",
+				"Path_Img": "Monster_4",
+				"Path_Units": "Monster_4"
+			},
+			{
+				"Character_ID": 6000301,
+				"Character_Name": "흑마법사",
+				"Path_Img": "Monster_4",
+				"Path_Units": "Monster_4"
+			},
+			{
+				"Character_ID": 6000302,
+				"Character_Name": "흑마법사",
+				"Path_Img": "Monster_4",
+				"Path_Units": "Monster_4"
+			},
+			{
+				"Character_ID": 6000303,
+				"Character_Name": "흑마법사",
+				"Path_Img": "Monster_4",
+				"Path_Units": "Monster_4"
+			},
+			{
+				"Character_ID": 6000304,
+				"Character_Name": "흑마법사",
+				"Path_Img": "Monster_4",
+				"Path_Units": "Monster_4"
+			}
+		]
+}

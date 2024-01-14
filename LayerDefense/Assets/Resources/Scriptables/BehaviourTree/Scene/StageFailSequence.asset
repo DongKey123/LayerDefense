@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee68e540869675643b8199ce23abf45a, type: 3}
+  m_Name: StageFailSequence
+  m_EditorClassIdentifier: 
+  _nodes:
+  - {fileID: 11400000, guid: c97e25a3224a1f7459b93049f4d7e00a, type: 2}
+  - {fileID: 11400000, guid: 78f1101104748a34b8295441f90a2fd0, type: 2}

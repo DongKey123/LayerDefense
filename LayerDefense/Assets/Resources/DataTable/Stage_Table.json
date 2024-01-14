@@ -1,0 +1,96 @@
+﻿{
+	"md5": "e2595f8966c5fc277a7b9d10d21c557a",
+	"array": 
+		[
+			{
+				"Stage_ID": 50001,
+				"Income_Second": 5,
+				"Income": 10,
+				"ReRoll": 10,
+				"HP": 100,
+				"StageClear_Exp": 100,
+				"StageClear_Gold": 100,
+				"StageClear_Star": 100
+			},
+			{
+				"Stage_ID": 50002,
+				"Income_Second": 5,
+				"Income": 10,
+				"ReRoll": 10,
+				"HP": 100,
+				"StageClear_Exp": 100,
+				"StageClear_Gold": 100,
+				"StageClear_Star": 100
+			},
+			{
+				"Stage_ID": 50003,
+				"Income_Second": 5,
+				"Income": 10,
+				"ReRoll": 10,
+				"HP": 100,
+				"StageClear_Exp": 100,
+				"StageClear_Gold": 100,
+				"StageClear_Star": 100
+			},
+			{
+				"Stage_ID": 50004,
+				"Income_Second": 5,
+				"Income": 10,
+				"ReRoll": 10,
+				"HP": 100,
+				"StageClear_Exp": 100,
+				"StageClear_Gold": 100,
+				"StageClear_Star": 100
+			},
+			{
+				"Stage_ID": 50005,
+				"Income_Second": 5,
+				"Income": 10,
+				"ReRoll": 10,
+				"HP": 100,
+				"StageClear_Exp": 100,
+				"StageClear_Gold": 100,
+				"StageClear_Star": 100
+			},
+			{
+				"Stage_ID": 50006,
+				"Income_Second": 5,
+				"Income": 10,
+				"ReRoll": 10,
+				"HP": 100,
+				"StageClear_Exp": 100,
+				"StageClear_Gold": 100,
+				"StageClear_Star": 100
+			},
+			{
+				"Stage_ID": 50007,
+				"Income_Second": 5,
+				"Income": 10,
+				"ReRoll": 10,
+				"HP": 100,
+				"StageClear_Exp": 100,
+				"StageClear_Gold": 100,
+				"StageClear_Star": 100
+			},
+			{
+				"Stage_ID": 50008,
+				"Income_Second": 5,
+				"Income": 10,
+				"ReRoll": 10,
+				"HP": 100,
+				"StageClear_Exp": 100,
+				"StageClear_Gold": 100,
+				"StageClear_Star": 100
+			},
+			{
+				"Stage_ID": 50009,
+				"Income_Second": 5,
+				"Income": 10,
+				"ReRoll": 10,
+				"HP": 100,
+				"StageClear_Exp": 100,
+				"StageClear_Gold": 100,
+				"StageClear_Star": 100
+			}
+		]
+}

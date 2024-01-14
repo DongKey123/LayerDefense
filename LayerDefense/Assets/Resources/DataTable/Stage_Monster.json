@@ -1,0 +1,222 @@
+﻿{
+	"md5": "3bf4e0e475f9743a68280da7a563fecc",
+	"array": 
+		[
+			{
+				"Stage_ID": 50001,
+				"Stage": 1,
+				"Wave": 1,
+				"Character_ID": 6000000,
+				"Monsterquantity": 10,
+				"Monstergeneration": 3
+			},
+			{
+				"Stage_ID": 50002,
+				"Stage": 1,
+				"Wave": 2,
+				"Character_ID": 6000100,
+				"Monsterquantity": 15,
+				"Monstergeneration": 3
+			},
+			{
+				"Stage_ID": 50003,
+				"Stage": 1,
+				"Wave": 3,
+				"Character_ID": 6000200,
+				"Monsterquantity": 20,
+				"Monstergeneration": 3
+			},
+			{
+				"Stage_ID": 50004,
+				"Stage": 2,
+				"Wave": 1,
+				"Character_ID": 6000001,
+				"Monsterquantity": 10,
+				"Monstergeneration": 3
+			},
+			{
+				"Stage_ID": 50005,
+				"Stage": 2,
+				"Wave": 2,
+				"Character_ID": 6000101,
+				"Monsterquantity": 15,
+				"Monstergeneration": 3
+			},
+			{
+				"Stage_ID": 50006,
+				"Stage": 2,
+				"Wave": 3,
+				"Character_ID": 6000201,
+				"Monsterquantity": 20,
+				"Monstergeneration": 3
+			},
+			{
+				"Stage_ID": 50007,
+				"Stage": 3,
+				"Wave": 1,
+				"Character_ID": 6000002,
+				"Monsterquantity": 10,
+				"Monstergeneration": 3
+			},
+			{
+				"Stage_ID": 50008,
+				"Stage": 3,
+				"Wave": 2,
+				"Character_ID": 6000102,
+				"Monsterquantity": 15,
+				"Monstergeneration": 3
+			},
+			{
+				"Stage_ID": 50009,
+				"Stage": 3,
+				"Wave": 3,
+				"Character_ID": 6000202,
+				"Monsterquantity": 20,
+				"Monstergeneration": 3
+			},
+			{
+				"Stage_ID": 50010,
+				"Stage": 4,
+				"Wave": 1,
+				"Character_ID": 6000003,
+				"Monsterquantity": 10,
+				"Monstergeneration": 3
+			},
+			{
+				"Stage_ID": 50011,
+				"Stage": 4,
+				"Wave": 2,
+				"Character_ID": 6000103,
+				"Monsterquantity": 15,
+				"Monstergeneration": 3
+			},
+			{
+				"Stage_ID": 50012,
+				"Stage": 4,
+				"Wave": 3,
+				"Character_ID": 6000203,
+				"Monsterquantity": 20,
+				"Monstergeneration": 3
+			},
+			{
+				"Stage_ID": 50013,
+				"Stage": 5,
+				"Wave": 1,
+				"Character_ID": 6000004,
+				"Monsterquantity": 10,
+				"Monstergeneration": 3
+			},
+			{
+				"Stage_ID": 50014,
+				"Stage": 5,
+				"Wave": 2,
+				"Character_ID": 6000104,
+				"Monsterquantity": 15,
+				"Monstergeneration": 3
+			},
+			{
+				"Stage_ID": 50015,
+				"Stage": 5,
+				"Wave": 3,
+				"Character_ID": 6000204,
+				"Monsterquantity": 20,
+				"Monstergeneration": 3
+			},
+			{
+				"Stage_ID": 50016,
+				"Stage": 6,
+				"Wave": 1,
+				"Character_ID": 6000000,
+				"Monsterquantity": 10,
+				"Monstergeneration": 3
+			},
+			{
+				"Stage_ID": 50017,
+				"Stage": 6,
+				"Wave": 2,
+				"Character_ID": 6000100,
+				"Monsterquantity": 15,
+				"Monstergeneration": 3
+			},
+			{
+				"Stage_ID": 50018,
+				"Stage": 6,
+				"Wave": 3,
+				"Character_ID": 6000200,
+				"Monsterquantity": 20,
+				"Monstergeneration": 3
+			},
+			{
+				"Stage_ID": 50019,
+				"Stage": 7,
+				"Wave": 1,
+				"Character_ID": 6000001,
+				"Monsterquantity": 10,
+				"Monstergeneration": 3
+			},
+			{
+				"Stage_ID": 50020,
+				"Stage": 7,
+				"Wave": 2,
+				"Character_ID": 6000101,
+				"Monsterquantity": 15,
+				"Monstergeneration": 3
+			},
+			{
+				"Stage_ID": 50021,
+				"Stage": 7,
+				"Wave": 3,
+				"Character_ID": 6000201,
+				"Monsterquantity": 20,
+				"Monstergeneration": 3
+			},
+			{
+				"Stage_ID": 50022,
+				"Stage": 8,
+				"Wave": 1,
+				"Character_ID": 6000002,
+				"Monsterquantity": 10,
+				"Monstergeneration": 3
+			},
+			{
+				"Stage_ID": 50023,
+				"Stage": 8,
+				"Wave": 2,
+				"Character_ID": 6000102,
+				"Monsterquantity": 15,
+				"Monstergeneration": 3
+			},
+			{
+				"Stage_ID": 50024,
+				"Stage": 8,
+				"Wave": 3,
+				"Character_ID": 6000202,
+				"Monsterquantity": 20,
+				"Monstergeneration": 3
+			},
+			{
+				"Stage_ID": 50025,
+				"Stage": 9,
+				"Wave": 1,
+				"Character_ID": 6000003,
+				"Monsterquantity": 10,
+				"Monstergeneration": 3
+			},
+			{
+				"Stage_ID": 50026,
+				"Stage": 9,
+				"Wave": 2,
+				"Character_ID": 6000103,
+				"Monsterquantity": 15,
+				"Monstergeneration": 3
+			},
+			{
+				"Stage_ID": 50027,
+				"Stage": 9,
+				"Wave": 3,
+				"Character_ID": 6000203,
+				"Monsterquantity": 20,
+				"Monstergeneration": 3
+			}
+		]
+}
