@@ -1,0 +1,186 @@
+﻿{
+	"md5": "b6046c2305bf6f5877eca5c14b093f7b",
+	"array": 
+		[
+			{
+				"Character_ID": 2000000,
+				"Tier": 1,
+				"HP": 10,
+				"Shield": 0,
+				"Speed": 1,
+				"Damage": 1,
+				"Gold": 1
+			},
+			{
+				"Character_ID": 2000001,
+				"Tier": 2,
+				"HP": 15,
+				"Shield": 0,
+				"Speed": 1,
+				"Damage": 2,
+				"Gold": 3
+			},
+			{
+				"Character_ID": 2000002,
+				"Tier": 3,
+				"HP": 30,
+				"Shield": 0,
+				"Speed": 1,
+				"Damage": 5,
+				"Gold": 5
+			},
+			{
+				"Character_ID": 2000003,
+				"Tier": 4,
+				"HP": 50,
+				"Shield": 0,
+				"Speed": 1,
+				"Damage": 10,
+				"Gold": 10
+			},
+			{
+				"Character_ID": 2000004,
+				"Tier": 5,
+				"HP": 100,
+				"Shield": 0,
+				"Speed": 1,
+				"Damage": 20,
+				"Gold": 15
+			},
+			{
+				"Character_ID": 2000100,
+				"Tier": 1,
+				"HP": 10,
+				"Shield": 0,
+				"Speed": 1,
+				"Damage": 1,
+				"Gold": 1
+			},
+			{
+				"Character_ID": 2000101,
+				"Tier": 2,
+				"HP": 15,
+				"Shield": 0,
+				"Speed": 1,
+				"Damage": 2,
+				"Gold": 3
+			},
+			{
+				"Character_ID": 2000102,
+				"Tier": 3,
+				"HP": 30,
+				"Shield": 0,
+				"Speed": 1,
+				"Damage": 5,
+				"Gold": 5
+			},
+			{
+				"Character_ID": 2000103,
+				"Tier": 4,
+				"HP": 50,
+				"Shield": 0,
+				"Speed": 1,
+				"Damage": 10,
+				"Gold": 10
+			},
+			{
+				"Character_ID": 2000104,
+				"Tier": 5,
+				"HP": 100,
+				"Shield": 0,
+				"Speed": 1,
+				"Damage": 20,
+				"Gold": 15
+			},
+			{
+				"Character_ID": 2000200,
+				"Tier": 1,
+				"HP": 10,
+				"Shield": 0,
+				"Speed": 1,
+				"Damage": 1,
+				"Gold": 1
+			},
+			{
+				"Character_ID": 2000201,
+				"Tier": 2,
+				"HP": 15,
+				"Shield": 0,
+				"Speed": 1,
+				"Damage": 2,
+				"Gold": 3
+			},
+			{
+				"Character_ID": 2000202,
+				"Tier": 3,
+				"HP": 30,
+				"Shield": 0,
+				"Speed": 1,
+				"Damage": 5,
+				"Gold": 5
+			},
+			{
+				"Character_ID": 2000203,
+				"Tier": 4,
+				"HP": 50,
+				"Shield": 0,
+				"Speed": 1,
+				"Damage": 10,
+				"Gold": 10
+			},
+			{
+				"Character_ID": 2000204,
+				"Tier": 5,
+				"HP": 100,
+				"Shield": 0,
+				"Speed": 1,
+				"Damage": 20,
+				"Gold": 15
+			},
+			{
+				"Character_ID": 2000300,
+				"Tier": 1,
+				"HP": 10,
+				"Shield": 0,
+				"Speed": 1,
+				"Damage": 1,
+				"Gold": 1
+			},
+			{
+				"Character_ID": 2000301,
+				"Tier": 2,
+				"HP": 15,
+				"Shield": 0,
+				"Speed": 1,
+				"Damage": 2,
+				"Gold": 3
+			},
+			{
+				"Character_ID": 2000302,
+				"Tier": 3,
+				"HP": 30,
+				"Shield": 0,
+				"Speed": 1,
+				"Damage": 5,
+				"Gold": 5
+			},
+			{
+				"Character_ID": 2000303,
+				"Tier": 4,
+				"HP": 50,
+				"Shield": 0,
+				"Speed": 1,
+				"Damage": 10,
+				"Gold": 10
+			},
+			{
+				"Character_ID": 2000304,
+				"Tier": 5,
+				"HP": 100,
+				"Shield": 0,
+				"Speed": 1,
+				"Damage": 20,
+				"Gold": 15
+			}
+		]
+}
